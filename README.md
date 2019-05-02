@@ -1,2 +1,2 @@
-# hareketsensrou
+# hareketsensoru
 Hareketi algılayan basit sensör
